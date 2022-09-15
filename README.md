@@ -7,3 +7,5 @@ une troisieme modif
 
 une quatrieme modif (sous GitHub)
 une cinquieme modif (sousGitHub)
+
+une modif sur newBranch
